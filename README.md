@@ -9,8 +9,6 @@ It demonstrates strong usage of:
 - Hash Maps
 - Bit Manipulation
 
-Perfect for **internships, resume projects, and academic submission**.
-
 ---
 
 ## 🚀 Features
@@ -66,3 +64,4 @@ Implemented a Huffman Coding-based file compression system in C++ supporting com
 
 ## 👤 Author
 Swati Keshri
+
